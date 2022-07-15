@@ -1,0 +1,77 @@
+{
+    "books":[
+        {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "date published": "June 26, 1997",
+            "genre": ["Fantasy","Fiction"],
+            "sequels": true,
+            "favorite": false
+        },
+        {
+            "title": "It",
+            "author": "Stephn King",
+            "date published": "September 15, 1986",
+            "genre": ["Horror", "Thriller", "Dark fantasy"],
+            "sequels": false,
+            "favorite": false
+        },
+        {
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "date published": "2005",
+            "genre": ["Historical fiction"],
+            "sequels": false,
+            "favorite": false
+        },
+        {
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "date published": "August 1965",
+            "genre": ["Science fiction"],
+            "sequels": true,
+            "favorite": false
+        },
+        {
+            "title": "A Wrinkle in Time",
+            "author": "Madeleine L'Engle",
+            "date published": "January 1, 1962",
+            "genre": ["Science fiction", "Fantasy", "Fiction"],
+            "sequels": true,
+            "favorite": false
+        },
+        {
+            "title": "Lord of the Rings",
+            "author": "J. R. R. Tolkien",
+            "date published": "July 29, 1954",
+            "genre": ["High fantasy", "Adventure"],
+            "sequels": false,
+            "favorite": false
+        },
+        {
+            "title": "The Maze Runner",
+            "author": "James Dashner",
+            "date published": "October 6, 2009",
+            "genre": ["Science fiction", "Adventure", "Dystopian"],
+            "sequels": true,
+            "favorite": false
+        },
+        {
+            "title": "Eragon",
+            "author": "Christopher Paolini",
+            "date published": "2002",
+            "genre": ["Fantasy", "Dystopian"],
+            "sequels": true,
+            "favorite": false
+        },
+        {
+            "title": "Percy Jackson & the Olympians: The Lightning Thief",
+            "author": "Rick Riordan",
+            "date published": "June 28, 2005",
+            "genre": ["Fantasy", "Fiction", "Adventure"],
+            "sequels": true,
+            "favorite": false
+        }
+    ]
+
+}
