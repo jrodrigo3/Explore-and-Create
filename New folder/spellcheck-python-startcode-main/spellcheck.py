@@ -114,3 +114,16 @@ def CheckAliceBinary():
 
         print(f"Number of words not found in dictionary: {len(aliceWords)-InDict}. {time.time()-Start} seconds")
 
+while True:
+    Choice=Menu()
+
+    if Choice==1:
+        SpellCheckLinear()
+    elif Choice==2:
+        SpellCheckBinary()
+    elif Choice==3:
+        CheckAliceLinear()
+    elif Choice==4:
+        CheckAliceBinary()
+    elif Choice==5:
+        break
