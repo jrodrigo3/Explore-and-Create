@@ -8,8 +8,8 @@ class Backpack:
     def __init__(self, colour, size, items=[], open=False):
         self.colour=colour
         self.size=size
-        self.items=[]
-        self.open=False
+        self.items=items
+        self.open=open
     
     def openBag(self):
         self.open=True
