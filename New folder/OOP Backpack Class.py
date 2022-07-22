@@ -5,7 +5,7 @@ date-created: July 13, 2022
 """
 
 class Backpack:
-    def __init__(self, colour, size, items, open):
+    def __init__(self, colour, size, items=[], open=False):
         self.colour=colour
         self.size=size
         self.items=[]
