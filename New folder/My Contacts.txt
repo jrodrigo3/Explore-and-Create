@@ -1,2 +1,0 @@
-John Doe, 780-987-6543, John.Doe@gmail.com
-Jane Doe, 780 678 981, JaneDoe@gmail.com
